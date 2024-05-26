@@ -1,0 +1,72 @@
+web:
+  change-interval: 200
+  texts:
+  - '<#73A942>www.privatgames.net'
+  - '<#73A942>www.privatgames.net'
+  - '<#73A942>www.privatgames.net'
+  - '<#3C7112>w<#73A942>ww.privatgames.net'
+  - '<#73A942>w<#3C7112>w<#73A942>w.privatgames.net'
+  - '<#73A942>ww<#3C7112>w<#73A942>.privatgames.net'
+  - '<#73A942>www<#3C7112>.<#73A942>privatgames.net'
+  - '<#73A942>www.<#3C7112>p<#73A942>rivatgames.net'
+  - '<#73A942>www.p<#3C7112>r<#73A942>ivatgames.net'
+  - '<#73A942>www.pr<#3C7112>i<#73A942>vatgames.net'
+  - '<#73A942>www.pri<#3C7112>v<#73A942>atgames.net'
+  - '<#73A942>www.priv<#3C7112>a<#73A942>tgames.net'
+  - '<#73A942>www.priva<#3C7112>t<#73A942>games.net'
+  - '<#73A942>www.privat<#3C7112>g<#73A942>ames.net'
+  - '<#73A942>www.privatg<#3C7112>a<#73A942>mes.net'
+  - '<#73A942>www.privatga<#3C7112>m<#73A942>es.net'
+  - '<#73A942>www.privatgam<#3C7112>e<#73A942>s.net'
+  - '<#73A942>www.privatgame<#3C7112>s<#73A942>.net'
+  - '<#73A942>www.privatgames<#3C7112>.<#73A942>net'
+  - '<#73A942>www.privatgames.<#3C7112>n<#73A942>et'
+  - '<#73A942>www.privatgames.n<#3C7112>e<#73A942>t'
+  - '<#73A942>www.privatgames.ne<#3C7112>t'
+  - '<#73A942>www.privatgames.net'
+  - '<#73A942>www.privatgames.net'
+  - '<#73A942>www.privatgames.net'
+
+Welcome:
+  change-interval: 400
+  texts:
+  - '&7W'
+  - '&7W'
+  - '&7We'
+  - '&7Wel'
+  - '&7Welc'
+  - '&7Welco'
+  - '&7Welcom'
+  - '&7Welcome'
+  - '&7Welcome'
+  - '&7Welcome'
+  - '&7Welcome'
+  - '&7Welcome'
+  - '&7Welcome'
+  - '&7Welcome'
+  - '&7Welcome'
+  - '&7Welcome'
+  - '&7Welcome'
+  - '&7Welcome'
+  - '&7Welcome'
+  - '&7Welcome'
+  - '&7Welcome'
+  - '&7Welcom'
+  - '&7Welco'
+  - '&7Welc'
+  - '&7Wel'
+  - '&7We'
+  - '&7W'
+  - '&7W'
+time:
+  change-interval: 8000
+  texts:
+    - '&7Time: <#73A942>%time%'
+    - '&7Date: <#73A942>%date%'
+barcolors:
+  change-interval: 1000
+  texts:
+    - RED
+    - BLUE
+    - GREEN
+    - YELLOW
