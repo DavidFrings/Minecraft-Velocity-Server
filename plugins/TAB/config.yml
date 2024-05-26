@@ -4,8 +4,11 @@ header-footer:
   header:
     - "<#538D22>&m                                                     </#1A4301>"
     - ""
-    - "<#538D22>&lPrivat Games</#3C7112>"
     - ""
+    - ""
+    - ""
+    - ""
+    - "&r"
     - "&7>> %animation:Welcome% <#73A942>&l%player%&7! &7<<"
     - "&7Online players: <#73A942>%online%"
     - ""
