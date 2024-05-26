@@ -9,7 +9,7 @@ UseMySQL: false
 
 MySQL:
   IP: localhost
-  DB-Name: minecraft
+  DB-Name: ban
   Username: admin
   Password: passwort12345
   Port: 3306
