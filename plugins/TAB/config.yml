@@ -47,7 +47,7 @@ scoreboard-teams:
   anti-override: true
   # https://github.com/NEZNAMY/TAB/wiki/Feature-guide:-Sorting-players-in-tablist
   sorting-types:
-    - "GROUPS:owner,admin,mod,helper,builder,vip,default"
+    - "GROUPS:owner,dev,admin,builder,mvp,vip,default,noob"
     - "PLACEHOLDER_A_TO_Z:%player%"
   case-sensitive-sorting: true
   can-see-friendly-invisibles: false
