@@ -1,3 +1,3 @@
 # Minecraft Velocity Server
 
-## Coming soon
+### Coming soon
