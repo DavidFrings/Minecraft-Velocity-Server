@@ -1,3 +1,3 @@
-# Privat Games
+# Minecraft Velocity Server
 
-https://github.com/DeathEnderMan/Nautical-Ranks
+## Coming soon
